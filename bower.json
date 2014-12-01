@@ -1,0 +1,23 @@
+{
+  "name": "angular-simplecouch",
+  "version": "0.0.2",
+  "homepage": "https://github.com/kleingy/angular-simplecouch",
+  "authors": [
+    "gregory_klein <gregory.m.r.klein@gmail.com>"
+  ],
+  "description": "simple couchdb client for angular",
+  "main": "angular.simplecouch.js",
+  "keywords": [
+    "angular",
+    "couchdb",
+    "nosql"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
